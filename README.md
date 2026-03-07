@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohhan Dalvi</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohhandalvi&label=Profile%20views&color=0e75b6&style=flat" alt="yohhandalvi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohhandalvi" alt="yohhandalvi" /></a> </p>
-
 - 🔭 I’m currently working on [Loan Management System](https://www.veefin.com/digital-lending/loan-management-system.php)
 
 - 🌱 I’m currently learning **Vibe-coding**
