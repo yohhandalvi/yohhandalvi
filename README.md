@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yohhan Dalvi</h1>
+<h1 align="center">Hi, I'm Yohhan Dalvi</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
 - 🔭 I’m currently working on [Loan Management System](https://www.veefin.com/digital-lending/loan-management-system.php)
