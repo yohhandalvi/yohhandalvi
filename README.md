@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yohhandalvi.com/](https://yohhandalvi.com/)
 
-- 📫 How to reach me **yohhandalvi@gmail.com**
+- 📫 How to reach me **yohhandalvi@gmail.com** or **business.yohhandalvi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
